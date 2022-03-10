@@ -1,4 +1,5 @@
-### Hi there! I'm Bryan. You're very welcome!
+### Hi there! I'm Bryan. You're very welcome! 
+#
 
 ### Info
 
@@ -9,8 +10,12 @@
   <li>Studying Computer Engineer at Universidade Federal de Ouro Preto (UFOP)</li>
 </ul>
 
+ ##
 
-___
+<img src="https://github-readme-stats.vercel.app/api?username=Bryanltp&show_icons=true&theme=chartreuse-dark"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryanltp&layout=compact&langs_count=8&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+
+
+##  
 
 ### Languages
 
@@ -23,7 +28,7 @@ ___
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-___
+##
 
 ### Contact and Social Medias
 
@@ -35,8 +40,6 @@ ___
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
  
- 
- ___
+ ##
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bryanltp&show_icons=true&theme=chartreuse-dark"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryanltp&layout=compact&langs_count=8&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
