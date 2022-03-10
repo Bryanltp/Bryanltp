@@ -10,6 +10,8 @@
 </ul>
 
 
+___
+
 ### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -21,9 +23,20 @@
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+___
+
 ### Contact and Social Medias
 
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:bryanltpinto@gmail.com" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bryanltpinto@gmail.com" />
+</a>
 
+<a href="https://www.linkedin.com/in/bryan-pinto-1b1354213" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+ 
+ 
+ ___
 
-![stats](https://github-readme-stats.vercel.app/api?username={Bryanltp}&theme=blue-green)
+<img src="https://github-readme-stats.vercel.app/api?username=Bryanltp&show_icons=true&theme=chartreuse-dark"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryanltp&layout=compact&langs_count=8&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+
