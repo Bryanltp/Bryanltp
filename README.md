@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Bryan. You're very welcome!
+_____________________
+### Info
+
+<ul>
+  <li>24 years old</li>
+  <li>Minas Gerais, Brazil</li>
+  <li>Studying to become a full-stack developer</li>
+  <li>Studying Computer Engineer at Universidade Federal de Ouro Preto (UFOP)</li>
+</ul>
 
 <!--
+# Info
 **Bryanltp/Bryanltp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
