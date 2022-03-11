@@ -1,4 +1,4 @@
-### Hi there! I'm Bryan. You're very welcome! 
+### Hi there! I'm Bryan Lucas. You're very welcome! 
 #
 
 ### Info
